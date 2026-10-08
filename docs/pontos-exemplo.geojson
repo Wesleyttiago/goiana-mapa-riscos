@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "DEMO-1", "geometry": { "type": "Point", "coordinates": [-35.0031, -7.5606] }, "properties": { "titulo": "Ponto fictício 1", "vulnerabilidade": "baixa", "descricao": "Exemplo de integração." } },
+    { "type": "Feature", "id": "DEMO-2", "geometry": { "type": "Point", "coordinates": [-35.0131, -7.5506] }, "properties": { "titulo": "Ponto fictício 2", "vulnerabilidade": "media", "descricao": "Exemplo de integração." } },
+    { "type": "Feature", "id": "DEMO-3", "geometry": { "type": "Point", "coordinates": [-34.9931, -7.5706] }, "properties": { "titulo": "Ponto fictício 3", "vulnerabilidade": "alta", "descricao": "Exemplo de integração." } }
+  ]
+}
